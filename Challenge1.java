@@ -16,14 +16,10 @@ import java.util.Scanner;
  * the user enters Q to quit. If the second value is not the correct length (phone numbers should be 10 digits, social
  * security numbers should be 9), print an error message to the user. 
  * 
- * Edmunds GovTech Programming Challenge
- * 
- * Question #3.
- * 
- * All rights reserved by Kyle Kaminski and Edmunds GovTech.
+ * All rights reserved by Kyle Kaminski.
  */
 
-public class EdmundsGovTech { // Written by: Kyle Kaminski
+public class Challenge1 { // Written by: Kyle Kaminski
 	private static boolean run = true; // Controls the program running.
 	static boolean menu = true; // Controls if the menu selection was valid.
 	private static String choice = ""; // Field for the user's menu choice.
