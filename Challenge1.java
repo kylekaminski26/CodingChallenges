@@ -4,6 +4,7 @@ import java.util.Scanner;
 /*
  * @author Kyle Kaminski
  * 
+ * Hi all!
  * @date February 29th, 2020
  * 
  * @purpose Takes a user's number input and returns it as either a 
